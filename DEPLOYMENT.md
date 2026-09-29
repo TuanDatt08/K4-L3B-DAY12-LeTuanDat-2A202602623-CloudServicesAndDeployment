@@ -10,9 +10,9 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Họ và tên | (điền họ tên) |
-| Mã học viên | (điền mã học viên) |
-| Repo | (điền link repo K4-L3B-DAY12-HoVaTen-MSSV-CloudServicesAndDeployment) |
+| Họ và tên | Lê Tuấn Đạt |
+| Mã học viên | 2A202602623 |
+| Repo | https://github.com/TuanDatt08/K4-L3B-DAY12-LeTuanDat-2A202602623-CloudServicesAndDeployment.git |
 
 ## Service
 

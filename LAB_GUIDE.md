@@ -562,7 +562,7 @@ service → Variables). Railway tự set `PORT` — đừng ghi đè.
 ### Kiểm tra bản deploy
 
 ```bash
-URL=https://<domain-cua-ban>
+URL=https://day12-agent-isux.onrender.com
 
 curl -i $URL/health          # 200 {"status":"ok"}
 curl -i $URL/ready           # 200 {"status":"ready"} ← chứng minh đã nối Redis

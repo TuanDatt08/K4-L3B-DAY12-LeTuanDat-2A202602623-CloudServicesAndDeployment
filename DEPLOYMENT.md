@@ -104,6 +104,8 @@ $ rate limit — 15 lần liên tiếp
 
 Đặt ảnh trong thư mục `screenshots/`:
 
-- `screenshots/dashboard.png` — trang quản lý service trên platform
-- `screenshots/health.png` — kết quả gọi `/health` từ trình duyệt hoặc curl
+- `screenshots/dashboard.png` — trang service `day12-agent` trên Render: trạng thái Live, Public URL, lịch sử deploy
+- `screenshots/dashboard1.png` — trang Blueprint: `day12-agent` Deployed + `day12-redis` Available
+- `screenshots/health.png` — gọi `/health` từ trình duyệt, trả `{"status":"ok",...}`
+- `screenshots/buildlog.png` — log runtime trên Render: health check của platform trả 200 liên tục
 
